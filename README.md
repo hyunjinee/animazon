@@ -1,0 +1,2 @@
+# animazon
+🚀 GraphQL tutorial
